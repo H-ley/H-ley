@@ -1,4 +1,4 @@
-Hello, I'm Ashley NAKA!
+### Hi there 👋 
 I'm currently in my third year of a bachelor in tech at Epitech Bnin. I have a passion for [Your Interests/Hobbies] and a deep love for [Your Favorite Tech Tools/Languages].
 
 🔭 Current Projects
