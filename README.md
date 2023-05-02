@@ -1,21 +1,24 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
-</p>
+Hello, I'm Ashley NAKA!
+I'm currently in my third year of a bachelor in tech at Epitech Bnin. I have a passion for [Your Interests/Hobbies] and a deep love for [Your Favorite Tech Tools/Languages].
 
+🔭 Current Projects
+Project Name 1: Brief description of the project
+Project Name 2: Brief description of the project
 
-### Hi there 👋
+🌱 Learning
+I'm always interested in learning new things, especially related to [Your Favorite Tech Tools/Languages]. Currently, I'm focused on learning:
 
---
-**H-ley/H-ley** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[Technology/Language 1]
+[Technology/Language 2]
 
-Here are some ideas to get you started:
+👯 Collaborations
+I'm always interested in collaborating on interesting projects related to [Your Interests]. If you have a project in mind and are looking for a collaborator, please feel free to reach out!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
---
+📫 Contact Me
+Your Website
+Twitter
+LinkedIn
+⚡ Fun Fact
+[Your Fun Fact!]
+
+Thanks for stopping by!
